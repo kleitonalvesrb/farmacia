@@ -1,0 +1,80 @@
+{
+  "medicamentos": [
+    {
+      "id": "2",
+      "codBarraEan": "7891317120863",
+      "principioAtivo": "PANTOPRAZOL",
+      "cnpj": "61.190.096/0001-92",
+      "laboratorio": "EUROFARMA LABORATÓRIOS S.A.",
+      "produto": "PANTOPRAZOL",
+      "apresentacao": "40 MG COM REV LIB RETARD CT BL AL/AL X 28",
+      "classeTerapeutica": "A02B2 - INIBIDORES DA BOMBA DE PRÓTONS",
+      "tempoTratamento": "20",
+      "intervaloConsumo": "12",
+      "dataInicio": "29/08/2021",
+      "restricao": "Não",
+      "img": "https://d1xdssnpeez8k0.cloudfront.net/Custom/Content/Products/14/94/14942_pantoprazol-medley-40mg-caixa-com-28-comprimidos-revestidos-p7896422506625_l1_637217823591669173.jpg"
+    },
+    {
+      "id": "3",
+      "codBarraEan": "7894916145121",
+      "principioAtivo": "DOMPERIDONA",
+      "cnpj": "05.044.984/0001-26",
+      "laboratorio": "LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA",
+      "produto": "DOMPERIDONA",
+      "apresentacao": "10 MG COM CT BL AL PLAS OPC X 60",
+      "classeTerapeutica": "A03F0 - GASTROPROCINÉTICOS",
+      "tempoTratamento": "20",
+      "intervaloConsumo": "12",
+      "dataInicio": "29/08/2021",
+      "restricao": "Não",
+      "img": "https://d1xdssnpeez8k0.cloudfront.net/Custom/Content/Products/25/90/2590_domperidona-comprimido-eurofarma-10mg-caixa-com-30-comprimidos-p7891317452995_l1_637217813740779907.jpg"
+    },
+    {
+      "id": "4",
+      "codBarraEan": "7898148298587",
+      "principioAtivo": "BROMOPRIDA",
+      "cnpj": "73.856.593/0001-66",
+      "laboratorio": "PRATI DONADUZZI & CIA LTDA",
+      "codGgrem": "528522303112119",
+      "registro": "1256801800017",
+      "produto": "BROMOPRIDA",
+      "apresentacao": "10 MG COM CT BL AL PLAS INC X 20",
+      "classeTerapeutica": "A03F0 - GASTROPROCINÉTICOS",
+      "tempoTratamento": "20",
+      "intervaloConsumo": "12",
+      "dataInicio": "29/08/2021",
+      "restricao": "Não",
+      "img": "https://d1xdssnpeez8k0.cloudfront.net/Custom/Content/Products/99/64/9964_bromoprida-ems-4mg-ml-caixa-com-1-frasco-gotejador-com-20ml-de-solucao-de-uso-oral-p7896004701233_l1_637217819774432844.jpg"
+    },
+    {
+      "codBarraEan": "7891317458850",
+      "principioAtivo": "ANASTROZOL",
+      "cnpj": "61.190.096/0001-92",
+      "laboratorio": "EUROFARMA LABORATÓRIOS S.A.",
+      "produto": "ANASTROZOL",
+      "apresentacao": "1 MG COM REV CT BL AL PLAS INC X 30",
+      "classeTerapeutica": "L02B3 - CITOSTÁTICOS INIBIDORES DA AROMATASE",
+      "tempoTratamento": "5",
+      "dataInicio": "2021-08-29T22:14:04.500Z",
+      "restricao": "Não",
+      "img": "file:///data/user/0/com.minhafarmacia/cache/rn_image_picker_lib_temp_eecfc5eb-2543-4c41-8618-567765c08408.jpg",
+      "id": "o-WYlGh"
+    },
+    {
+      "codBarraEan": "7891317458850",
+      "principioAtivo": "ANASTROZOL",
+      "cnpj": "61.190.096/0001-92",
+      "laboratorio": "EUROFARMA LABORATÓRIOS S.A.",
+      "produto": "ANASTROZOL",
+      "apresentacao": "1 MG COM REV CT BL AL PLAS INC X 30",
+      "classeTerapeutica": "L02B3 - CITOSTÁTICOS INIBIDORES DA AROMATASE",
+      "tempoTratamento": "15",
+      "intervaloConsumo": "24",
+      "dataInicio": "12/10/2021",
+      "restricao": "Não",
+      "img": "file:///data/user/0/com.minhafarmacia/cache/rn_image_picker_lib_temp_3528a618-6e07-4a78-8d82-0612db564fa1.jpg",
+      "id": "f4HHurd"
+    }
+  ]
+}
